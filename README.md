@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+vercel link - https://you-tube-clone-wheat-beta.vercel.app/watch?v=fW1QcEAy4rg
+
 ## Available Scripts
 
 In the project directory, you can run:
