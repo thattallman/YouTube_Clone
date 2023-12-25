@@ -4,6 +4,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 vercel link - https://you-tube-clone-wheat-beta.vercel.app/watch?v=fW1QcEAy4rg
 
+Screen Shots 
+
+
+<img width="1426" alt="Screenshot 2023-12-25 at 1 01 44 PM" src="https://github.com/thattallman/YouTube_Clone/assets/82497615/ade26776-32cf-4539-a6a4-27bd97e0ebfd">
+
+
+<img width="1440" alt="Screenshot 2023-12-25 at 1 03 25 PM" src="https://github.com/thattallman/YouTube_Clone/assets/82497615/9e611576-4e08-4674-940c-d5d2cbb8d603">
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
